@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in CategoryViewController.tableView(_:editActionsForRowAt:for:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryViewController.tableView(_:cellForRowAt:):CategoryViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CategoryViewController.addButtonPressed(_:):CategoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIColor.randomFlat().hexValue()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
